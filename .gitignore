@@ -59,5 +59,11 @@ typings/
 
 .idea/inspectionProfiles/
 .idea/workspace.xml
-public/images/
-public/javascripts/
+#public/images/
+#public/javascripts/
+.idea/heroku-express-blog.iml
+.idea/modules.xml
+.idea/vcs.xml
+app.js
+bin/
+node_modules/
